@@ -4,4 +4,4 @@
 
 В тестах используются элементы класса WebDriverWait.
 
- python -m pytest -v --driver Chrome --driver-path C:</chromedriver_win32>/chromedriver test_PetFriends.py  для запуска терминала
+ python -m pytest -v --driver Chrome --driver-path C:</chromedriver_win32>/chromedriver test_PetFriends.py       для запуска терминала
